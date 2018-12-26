@@ -1,0 +1,82 @@
+div {
+	width: 900px;
+	position: relative;
+	left: 25%;
+	margin-bottom: 20px;
+}
+
+div#sshlogindiv {
+
+    border: 2px solid lightgray; 
+  
+}
+
+form#sshloginform {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom:  20px;
+  
+}
+
+div#inputpeerdiv {
+    border: 2px solid lightgray; 
+}
+
+form#addpeerform {
+  
+  margin-bottom: 20px;
+}
+
+
+h2 {
+  margin-left: 20px;
+  font-size: 16px;
+  font-family: Calibri,Arial,Microsoft JhengHei;
+}
+
+table#inputpeertable {
+  margin-left: 16px;
+}
+
+#logodiv {
+    border-bottom: 2px solid lightgray;
+}
+
+#peerstatusdiv {
+  width: 450px;
+  margin-top: 35px;
+	left: 25%;
+  border: 2px solid lightgray; 
+}
+
+#peerstatustable {
+  margin-left: 70px;
+  margin-top: 10px;
+  
+}
+
+#peerstatustable th,
+#peerstatustable td {
+  padding: 13px;
+  line-height: 18px;
+  text-align: left;
+  border-top: 2px solid lightgray;
+}
+
+
+#peerstatustbody tr:hover td {
+  background-color: lightblue;
+}
+
+#imagebutton {
+  position: absolute;
+  margin-left: 5px;
+  width: 10px;
+}
+
+#refreshimg {
+  margin-left:-15px;
+}
+
+
+
